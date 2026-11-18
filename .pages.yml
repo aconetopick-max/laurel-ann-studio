@@ -1,0 +1,124 @@
+media:
+  input: media
+  output: /media
+  rename: safe
+  categories: [image]
+content:
+  - name: studio-content
+    label: Edit Laurel Ann Studio
+    type: file
+    path: data/site.json
+    format: json
+    fields:
+      - name: hero_description
+        label: Home introduction
+        type: text
+      - name: intro_description
+        label: Welcome paragraph
+        type: text
+      - name: studio_story
+        label: Meet the artists story
+        type: text
+      - name: phone
+        label: Phone number
+        type: string
+      - name: email
+        label: Business email (leave blank until ready)
+        type: string
+      - name: instagram
+        label: Instagram URL (leave blank until ready)
+        type: string
+      - name: facebook
+        label: Facebook URL (leave blank until ready)
+        type: string
+      - name: services
+        label: Our services
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - name: title
+            type: string
+          - name: description
+            type: text
+      - name: packages
+        label: Painting packages
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - name: tag
+            label: Small label
+            type: string
+          - name: title
+            type: string
+          - name: description
+            type: text
+      - name: artists
+        label: Meet the artists and photos
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - name: name
+            type: string
+          - name: title
+            type: string
+          - name: photo
+            label: Portrait (upload a picture)
+            type: image
+      - name: portfolio
+        label: Portfolio pictures (start with 5 blanks)
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - name: title
+            label: Project title
+            type: string
+          - name: category
+            label: Category
+            type: select
+            options:
+              values: [Holiday & Seasonal, Storefronts, Events, Custom Art]
+          - name: description
+            type: text
+          - name: location
+            type: string
+          - name: image
+            label: Project photo
+            type: image
+      - name: reviews
+        label: Real customer reviews (empty until you add one)
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - name: name
+            label: Reviewer name
+            type: string
+          - name: quote
+            label: Their review (only with permission)
+            type: text
+      - name: faqs
+        label: Frequently asked questions
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{question}"
+        fields:
+          - name: question
+            type: string
+          - name: answer
+            type: text
