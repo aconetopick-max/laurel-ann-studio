@@ -1,0 +1,141 @@
+{
+  "hero_description": "From seasonal storefronts to one-of-a-kind window art, we bring a little magic to everyday spaces — all painted by hand, just for you.",
+  "intro_description": "We're two artists who believe ordinary spaces deserve extraordinary little moments. From neighborhood storefronts to special celebrations, we make hand-painted details that make people stop, look, and smile.",
+  "studio_story": "Laurel Ann Studio started with two creative minds and a shared love for art. We're Leighann and Laurel — two artists who believe everyday spaces are better with a little imagination. Our goal is simple: bring more creativity into the modern world, one hand-painted project at a time.",
+  "phone": "4708412728",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "services": [
+    {
+      "title": "Holiday & Seasonal Windows",
+      "description": "Celebrate Christmas, fall, Halloween, spring, and every special season with cheerful, hand-painted window designs."
+    },
+    {
+      "title": "Storefront Window Art",
+      "description": "Make your storefront stand out with inviting, personalized window paintings that catch customers' eyes."
+    },
+    {
+      "title": "Custom Lettering & Logos",
+      "description": "Bring your name, logo, announcements, and special messages to life with hand-painted lettering."
+    },
+    {
+      "title": "Event & Celebration Windows",
+      "description": "Add a little extra joy to birthdays, grand openings, special events, and celebrations."
+    },
+    {
+      "title": "Residential Window Painting",
+      "description": "Bring the seasons home with custom designs made for your windows and your style."
+    },
+    {
+      "title": "Window Painting Removal",
+      "description": "Ready for a fresh canvas? Ask us about removing existing window artwork."
+    },
+    {
+      "title": "Murals & Other Painted Art",
+      "description": "Have an idea that goes beyond windows? We'd love to hear about murals and other hand-painted projects."
+    }
+  ],
+  "packages": [
+    {
+      "tag": "01 / SMALL & SWEET",
+      "title": "The Little Detail",
+      "description": "For smaller windows, lettering, accents, and sweet seasonal touches."
+    },
+    {
+      "tag": "02 / A BIG FIRST IMPRESSION",
+      "title": "The Storefront Statement",
+      "description": "For businesses looking for a larger, eye-catching storefront design."
+    },
+    {
+      "tag": "03 / A FRESH NEW LOOK",
+      "title": "The Seasonal Refresh",
+      "description": "For spaces that want to celebrate different holidays and seasons throughout the year."
+    },
+    {
+      "tag": "04 / ANYTHING IS POSSIBLE",
+      "title": "The Custom Canvas",
+      "description": "For murals, unusual surfaces, celebrations, and all your one-of-a-kind ideas."
+    }
+  ],
+  "artists": [
+    {
+      "name": "Leighann Giles",
+      "title": "Co-Founder & Artist",
+      "photo": ""
+    },
+    {
+      "name": "Laurel Satterfeild",
+      "title": "Co-Founder & Artist",
+      "photo": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Project photo 01",
+      "category": "Holiday & Seasonal",
+      "description": "",
+      "location": "",
+      "image": ""
+    },
+    {
+      "title": "Project photo 02",
+      "category": "Storefronts",
+      "description": "",
+      "location": "",
+      "image": ""
+    },
+    {
+      "title": "Project photo 03",
+      "category": "Events",
+      "description": "",
+      "location": "",
+      "image": ""
+    },
+    {
+      "title": "Project photo 04",
+      "category": "Custom Art",
+      "description": "",
+      "location": "",
+      "image": ""
+    },
+    {
+      "title": "Project photo 05",
+      "category": "Holiday & Seasonal",
+      "description": "",
+      "location": "",
+      "image": ""
+    }
+  ],
+  "reviews": [],
+  "faqs": [
+    {
+      "question": "How do I get a quote?",
+      "answer": "Fill out our free quote request form with a few details about your project. Photos and inspiration are always helpful!"
+    },
+    {
+      "question": "Do you create custom designs?",
+      "answer": "Absolutely! Every project is personal, and we love hearing your creative ideas."
+    },
+    {
+      "question": "Where are you located?",
+      "answer": "We're based in Canton, Georgia, and serve surrounding communities. Contact us about your location!"
+    },
+    {
+      "question": "How much does window painting cost?",
+      "answer": "Each project is unique. Pricing depends on size, design complexity, and project details. Reach out for a personalized quote."
+    },
+    {
+      "question": "Can I request a specific painting date?",
+      "answer": "Of course! Include your preferred date in the request form. We'll confirm availability with you directly."
+    },
+    {
+      "question": "Do you offer seasonal designs?",
+      "answer": "Yes! We paint for holidays, changing seasons, celebrations, and special occasions."
+    },
+    {
+      "question": "Do I need to pay online?",
+      "answer": "No. Payment arrangements are discussed directly with the studio, with payment collected after the service as agreed."
+    }
+  ]
+}
